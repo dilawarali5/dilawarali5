@@ -9,12 +9,12 @@ I have over 7 years of experience in embedded system design, development, valida
 </span>
 
 <h2 style="color:white">Industrial Expeirence</h2>
-<h3><a href="https://www.u-blox.com/en" target="blank"><img src="https://www.u-blox.com/logo.png" height="30" width="100"/></a><br>Senior Embedded System Developer</h3>
+<h3><a href="https://www.u-blox.com/en" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRURS-DYxSwtG_IJYdCCX6C9_567zY-wpgV3w&s" height="40" width="90"/></a><br>Senior Embedded System Developer</h3>
 <span style="color:#F68F26">
 During my five years at U-Blox, I worked on the development and validation of 3G, LTE CAT M1, CAT 1, and CAT 4 cellular modules.
 </span>
 
-<h3><a href="https://www.powersoft19.com/" target="blank"><img src="https://www.powersoft19.com/wp-content/uploads/2023/10/ps19-logo-header-dark.svg" height="30" width="100"/></a><br>Embedded System Developer</h3>
+<h3><a href="https://www.powersoft19.com/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBmBFp5NBBCuM4cWCXnR1K_RJm6HvC5PrBA&s" height="40" width="110"/></a><br>Embedded System Developer</h3>
 <span style="color:#F68F26">
 During my 18 months at Powersoft Ninteen, I worked on design and developement of embedded IoT gateway and end devices.
 </span>
