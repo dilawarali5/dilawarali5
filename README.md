@@ -1,7 +1,9 @@
-<h3 align="right">Available for work</h3>
+<!-- <h3 align="right">Available for work</h3> -->
 <h1 align="left">Hello!<br>I'm <span style="color:darkred">Dilawar Ali</span>
 <br><span>Embedded System Developer</span>
 </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilawarali5&label=Profile%20views&color=0e75b6&style=flat" alt="dilawarali5" /> </p>
 
 <h3 style="color:white">About Me</h3>
 <span style="color:#F68F26">
