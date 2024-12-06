@@ -21,20 +21,27 @@ During my 18 months at Powersoft Ninteen, I worked on design and developement of
 
 <h2 style="color:white">Technologies</h2>
 
-<a href="https://en.wikipedia.org/wiki/LTE_(telecommunication)"> <img src="https://images.data-alliance.net/4g-lte.png" height="90" width="100"/></a>
+|  |    |     |
+|----------------------------|--------|--------|
+| <a href="https://en.wikipedia.org/wiki/LTE_(telecommunication)"> <img src="https://images.data-alliance.net/4g-lte.png" height="90" width="100"/></a>                   | <a href="https://en.wikipedia.org/wiki/Wi-Fi"><img src="https://logos-world.net/wp-content/uploads/2022/03/Wi-Fi-Logo.png" height="70" width="100"/></a>    | <a href="https://en.wikipedia.org/wiki/Bluetooth_Low_Energy"><img src="https://www.iotechsys.com/cmsfiles/New-Branding/Connectors/Bluetooth.png" height="80" width="170"/> </a>   |
+| <a href="https://en.wikipedia.org/wiki/Ethernet"><img src="https://as2.ftcdn.net/v2/jpg/02/37/31/49/1000_F_237314902_00p8MZjmd1S4MdYhvjm4s5Jg5N6VDhR4.jpg" height="90" width="100"/></a>                     | <a href="https://en.wikipedia.org/wiki/Near-field_communication"><img src="https://banner2.cleanpng.com/20180527/yru/avqwbt8sl.webp" height="90" width="100"/></a> | <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoM6uebLsekX7vaI6Iu55HKbt_BaZbGxzD8A&s" height="90" width="100"/></a> |
+|<a href="https://www.espressif.com/en/solutions/low-power-solutions/esp-now"><img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/01/esp-now-logo.png?quality=100&strip=all&ssl=1" height="50" width="150"/></a> | <a href="https://en.wikipedia.org/wiki/Thread_(network_protocol)"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS42KFP4Tfkb3s6qiJMTNNkGaA1ByPQviUz_Q&s" height="70" width="120"/></a> | <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Matter_logo.jpg/1280px-Matter_logo.jpg" height="70" width="170"/></a> |
 
-<a href="https://en.wikipedia.org/wiki/Wi-Fi"><img src="https://logos-world.net/wp-content/uploads/2022/03/Wi-Fi-Logo.png" height="70" width="100"/></a>
 
-<a href="https://en.wikipedia.org/wiki/Bluetooth_Low_Energy"><img src="https://www.iotechsys.com/cmsfiles/New-Branding/Connectors/Bluetooth.png" height="80" width="170"/> </a>
 
-<a href="https://en.wikipedia.org/wiki/Ethernet"><img src="https://as2.ftcdn.net/v2/jpg/02/37/31/49/1000_F_237314902_00p8MZjmd1S4MdYhvjm4s5Jg5N6VDhR4.jpg" height="90" width="100"/></a>
 
-<a href="https://en.wikipedia.org/wiki/Near-field_communication"><img src="https://banner2.cleanpng.com/20180527/yru/avqwbt8sl.webp" height="90" width="100"/></a>
 
-<a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoM6uebLsekX7vaI6Iu55HKbt_BaZbGxzD8A&s" height="90" width="100"/></a>
 
-<a href="https://www.espressif.com/en/solutions/low-power-solutions/esp-now"><img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/01/esp-now-logo.png?quality=100&strip=all&ssl=1" height="50" width="150"/></a>
 
-<a href="https://en.wikipedia.org/wiki/Thread_(network_protocol)"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS42KFP4Tfkb3s6qiJMTNNkGaA1ByPQviUz_Q&s" height="70" width="120"/></a>
 
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Matter_logo.jpg/1280px-Matter_logo.jpg" height="70" width="170"/></a>
+
+
+
+
+
+
+
+
+
+
+
